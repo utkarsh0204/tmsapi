@@ -1,4 +1,4 @@
-minimum php8.2 required\n
+minimum php8.2 required
 cd your-project-name
 copy .env.sample and rename as .env file
 update the db details in .env
