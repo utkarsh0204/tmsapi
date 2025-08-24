@@ -1,5 +1,4 @@
 minimum php8.2 required
-composer create-project laravel/laravel tmsapi
 cd your-project-name
 copy .env.sample and rename as .env file
 update the db details in .env
